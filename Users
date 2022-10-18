@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "634d1dbc594902d5b39d3cc1"
+  },
+  "user_name": "teamupuser1",
+  "email": "teamupuser@123yopmail.com",
+  "password": "af3571d16d5a161f36f6e3f17ad36434fbf7d83f",
+  "profile": "https://www.freeiconspng.com/uploads/am-a-19-year-old-multimedia-artist-student-from-manila--21.png",
+  "Boi": "football",
+  "location": {
+    "longitude": -76.508827,
+    "latitude": 38.296452,
+    "address": "California ,US"
+  },
+  "isvisble_other": true,
+  "achivements": 8,
+  "phone_number": 9899881223
+},{
+  "_id": {
+    "$oid": "634e39a936891b0ab341819f"
+  },
+  "user_name": "teamupuser2",
+  "email": "teamupuser2@123yopmail.com",
+  "password": "af3571d16d5a161f36f6dsddse3f17ad36434fbf7d83f",
+  "profile": "https://www.freeiconspng.com/uploads/am-a-19-year-old-multimedia-artist-student-from-manila--21.png",
+  "Boi": "cricket",
+  "location": {
+    "longitude": 36.7783,
+    "latitude": 119.4179,
+    "address": "California ,US"
+  },
+  "isvisble_other": true,
+  "achivements": 12,
+  "phone_number": 8912964823
+},{
+  "_id": {
+    "$oid": "634e3a7936891b0ab34181a2"
+  },
+  "user_name": "teamupuser3",
+  "email": "teamupuser3@mail.com",
+  "password": "ashsadas%4($nkjzx5zxc",
+  "profile": "https://www.freeiconspng.com/uploads/am-a-19-year-old-multimedia-artist-student-from-manila--21.png",
+  "Boi": "basketball",
+  "location": {
+    "longitude": 36.7783,
+    "latitude": 119.4179,
+    "address": "Miamii ,US"
+  },
+  "isvisble_other": true,
+  "achivements": 5,
+  "phone_number": 9758266657
+},{
+  "_id": {
+    "$oid": "634e3adf36891b0ab34181a3"
+  },
+  "user_name": "teamupuser4",
+  "email": "teamupuser4@mail.com",
+  "password": "czxd24sa$*672^hh%4ghjd",
+  "profile": "https://www.freeiconspng.com/uploads/am-a-19-year-old-multimedia-artist-student-from-manila--21.png",
+  "Boi": "football",
+  "location": {
+    "longitude": 34.0522,
+    "latitude": 118.2437,
+    "address": "Los Angeles ,US"
+  },
+  "isvisble_other": true,
+  "achivements": 12,
+  "phone_number": 7857867809
+},{
+  "_id": {
+    "$oid": "634e3b5436891b0ab34181a4"
+  },
+  "user_name": "teamupuser5",
+  "email": "teamupuser5@mail.com",
+  "password": "12lks*vja%457nmn,z",
+  "profile": "https://www.freeiconspng.com/uploads/am-a-19-year-old-multimedia-artist-student-from-manila--21.png",
+  "Boi": "football",
+  "location": {
+    "longitude": 34.0522,
+    "latitude": 118.2437,
+    "address": "Los Angeles ,US"
+  },
+  "isvisble_other": true,
+  "achivements": 3,
+  "phone_number": 9826485765
+},{
+  "_id": {
+    "$oid": "634ea7fa718de305ba8ba082"
+  },
+  "user_name": "teamupuser02",
+  "email": "teamupuser02@mail.com",
+  "password": "af3571dsfsdsd5a161f36f6dsddse3f17ad36434fbf7d83f",
+  "profile": "https://www.freeiconspng.com/uploads/am-a-19-year-old-multimedia-artist-student-from-manila--21.png",
+  "Boi": "cricket",
+  "location": {
+    "longitude": 27.6648,
+    "latitude": 81.5158,
+    "address": "Florida ,US"
+  },
+  "isvisble_other": true,
+  "achivements": 12,
+  "phone_number": 8912964843
+}]
