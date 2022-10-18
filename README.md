@@ -1,10 +1,10 @@
-Developer: Ashish Gavshinde
-Database: MongoDB
-FrameWork: FastAPI
-Upwork Profile: Link
-Hourly Rate:
-Daily Possible Working Hours: 9 hrs
-Timezone[Country]: IST[India]
+# Developer: Ashish Gavshinde
+# Database: MongoDB
+# FrameWork: FastAPI
+# Upwork Profile: Link
+# Hourly Rate:
+# Daily Possible Working Hours: 9 hrs
+# Timezone[Country]: IST[India]
 
 Used pyMongo and FastAPI to create end points and fetch data from MongoDB
 
